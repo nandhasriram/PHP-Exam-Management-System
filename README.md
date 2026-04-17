@@ -14,4 +14,4 @@ A comprehensive, role-based Enterprise Resource Planning (ERP) system built with
 ## 🛠️ Tech Stack
 * **Backend:** Core PHP
 * **Database:** MySQL
-* **Frontend:** HTML, CSS, JavaScript
+* **Frontend:** HTML, CSS, JavaScript 
